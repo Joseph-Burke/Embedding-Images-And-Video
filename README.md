@@ -7,7 +7,6 @@
 This project demonstrates the use of embedded images and video in HTML/CSS.
 ​
 ## Built With
-​
 - HTML
 - CSS
 ​
@@ -23,9 +22,9 @@ This project demonstrates the use of embedded images and video in HTML/CSS.
 ​
 ### Prerequisites
 
-A computer.
-Connection to the internet.
-A browser of preference.
+- A computer.
+- Connection to the internet.
+- A browser of preference.
 ​
 ## Authors
 ​
@@ -42,14 +41,13 @@ A browser of preference.
 ​
 ## �� Contributing
 ​
-The best contribution you can make is your thoughts. Tell us what you liked and what you thought could be improved by creating an issue.
+The best contribution you can make is your thoughts. Tell us what you liked and what you thought could be improved by creating an issue or reaching out on social media. We don't bite.
 ​
 ## Show your support
 ​
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project and follow us for more great projects like this one.
 ​
 ## Acknowledgments
-​
 - This project was completed as part of our course at [Microverse](https://www.microverse.org/).
 - Thanks to YouTube for their inspiring website.
 ​
