@@ -1,11 +1,11 @@
-# Project: Embedding Images and Video
-> This project is a clone of popular video-sharing website, YouTube.
+# YouTube Clone
+> This project is a visual clone of popular video-sharing website, YouTube.
 
 ​
 ![screenshot](./screenshot.png)
 ​
 
-This project demonstrates the use of embedded images and video in HTML/CSS.
+This project demonstrates some basics of HTML & CSS: positioning, styling and embedding.
 ​
 ## Built With
 - HTML
