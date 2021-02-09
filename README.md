@@ -1,5 +1,5 @@
 # YouTube Clone
-> This project is a visual clone of popular video-sharing website, YouTube.
+**This project is a visual clone of popular video-sharing website, YouTube.**
 
 ​
 ![screenshot](./screenshot.png)
